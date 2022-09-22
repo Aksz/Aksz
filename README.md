@@ -14,7 +14,6 @@
   <p><b>Algumas coisas que estou fazendo atualmente:</b></p>
   <ul style="list-style-type: none; margin: 0;">
     <li>🖥️ Atualmente estou trabalhando com desenvolvimento WEB ( PHP + JAVASCRIPT + HTML + CSS).</li>
-    <li>💡 Atualmente estou aprendendo NodeJS.</li>
   </ul>
   
   <div style="display: inline_block">
